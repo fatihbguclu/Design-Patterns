@@ -1,0 +1,1 @@
+![Factory Pattern Diagram](img/factory.png)
